@@ -1,0 +1,54 @@
+{
+  "name": "html2json",
+  "description": "html2json parser",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Ryan Sherlock",
+    "email": "ryan.m.sherlock@gmail.com"
+  },
+  "homepage": "https://github.com/imsherlock/node-html2json",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imsherlock/node-html2json.git"
+  },
+  "keywords": [
+    "html",
+    "json",
+    "parser"
+  ],
+  "main": "lib/html2json.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "prepublish": "npm html2json"
+  },
+  "gitHead": "",
+  "bugs": {
+    "url": "https://github.com/imsherlock/node-html2json/issues"
+  },
+  "_id": "html2json@0.0.1",
+  "_shasum": "",
+  "_from": "html2json@*",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "imsherlock",
+    "email": "ryan.m.sherlock@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "imsherlock",
+      "email": "ryan.m.sherlock@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "",
+    "tarball": "http://registry.npmjs.org/html2json/-/html2json-0.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/html2json/-/html2json-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
